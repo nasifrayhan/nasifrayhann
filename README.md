@@ -13,7 +13,7 @@
 - 🌱 I’m learning: **JavaScript, React, Node.js, Python**  
 - 👯 I’m open to collaborate on: **Beginner-friendly Open Source Projects**  
 - 💬 Ask me about: **Frontend Development & Python Basics**  
-- 📫 Reach me at: **your_email_here@gmail.com**  
+- 📫 Reach me at: **nasifrayhanyousha@gmail.com**  
 - ⚡ Fun fact: *Started from History, found passion in Coding!*  
 
 ---
